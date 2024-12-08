@@ -71,24 +71,5 @@ The application expects an input file named `Employee_details.txt` with records 
    ```
    java -cp bin Main
    ```
-4. Place the `Employee_details.txt` file in the root directory before running.
-
-## How to Test
-
-1. Run JUnit test cases using Maven:
-   ```
-   mvn test
-   ```
-2. Check the console for test results.
-
-## Future Enhancements
-
-- Add support for database integration to store and fetch employee records.
-- Implement a GUI for easier user interaction.
-- Add support for additional event types.
-
-## Contact
-
-For any queries or suggestions, please contact:
-- **Author**: Bhavya Patel
-- **Email**: [Your Email Address Here]
+4. Rename file to `Employee_details.txt` and enter the file path.
+5. Check the console for results.
